@@ -1,0 +1,39 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position:-webkit-sticky; /*Safari */
+    position: sticky;
+    top: 0;
+}
+
+li{
+    float: left;
+}
+
+
+li a:hover{
+    background-color: rgb(0, 26, 255) (255, 0, 179);
+}
+
+li a {
+    display: rgb(0, 0, 0);
+    color: #f48fb1;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding: 10px 10px 10px 10px;
+}
+h1{
+    text-transform: uppercase;
+}
+img{
+    text-align: center;
+
+}
